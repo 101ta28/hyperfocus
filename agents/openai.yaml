@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hyperfocus"
+  short_description: "Build focus through small steps in your preferred language"
+  default_prompt: "Use $hyperfocus to help me find a first step for my current task and a way of working that supports focus. Respond in my preferred language, or use the language of our conversation if I have not specified one."
